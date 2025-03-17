@@ -1,6 +1,8 @@
 # Simple-API
 Build simple API for learning using Spring boot and mysql
 
+That is a simple Point of sale system to done by me for practice Spring Boot framework
+
 ![image](https://github.com/user-attachments/assets/6af30a16-1851-4a43-804e-38b926c082b9)
 
 
